@@ -19,6 +19,7 @@ Refer to *Report.pdf* for more detailed numeric evaluation. Here are intuitive i
 <img src='images/lena/lena_10_20.png' width=30%>
 </div>
 <p></p>
+
 > The Mystery, Monalisa
 
 <div style="text-align:center">
