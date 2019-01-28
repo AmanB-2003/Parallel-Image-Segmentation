@@ -20,6 +20,8 @@ Refer to *Report.pdf* for more detailed numeric evaluation. Here are intuitive i
 </div>
 
 
+<p></p>
+
 > The Mystery, Monalisa
 
 <div style="text-align:center">
