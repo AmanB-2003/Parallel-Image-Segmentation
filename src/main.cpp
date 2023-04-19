@@ -1,5 +1,4 @@
 #define STB_IMAGE_IMPLEMENTATION
-#include "stb_image.h"
 #include "quickshift.h"
 #include "util.h"
 #include <sys/time.h>
